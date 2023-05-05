@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=프로젝트&nbsp;수정계획&fontSize=90" />
 <br/>
+
 # 추가적인 기능구현
+
 <br/>
 
 
