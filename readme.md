@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=프로젝트&nbsp;수정계획&fontSize=90" />
 <br/>
 
-파이널 프로젝트 이후 진행 예정. 7월초~중순정도가 되지않을까...
+파이널 프로젝트 이후 진행 예정. 7월중순~말정도가 되지않을까...
 
 # 추가적인 기능구현
 
